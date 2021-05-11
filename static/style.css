@@ -1,0 +1,11 @@
+#oprice
+{
+    color:blue;
+}
+
+#dprice{
+    color: red;
+}
+#big.banner{
+	background-image: url('../static/images/abc.jpg');
+}
